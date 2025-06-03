@@ -19,7 +19,7 @@ Requires-Dist: pandas==2.2.3
 Requires-Dist: geopandas==1.0.1
 Requires-Dist: numba==0.61.2
 Requires-Dist: rasterio==1.4.3
-Requires-Dist: networkit==11.1
+Requires-Dist: networkit>=11.1
 Requires-Dist: matplotlib==3.10.1
 Requires-Dist: requests==2.32.3
 Requires-Dist: defusedxml==0.7.1
